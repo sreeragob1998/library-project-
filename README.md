@@ -1,4 +1,4 @@
- library-project-
+Please get into virtual environment that you have created and install following libraries if have not installed previously.
 
 virtualenv library_review 
 
